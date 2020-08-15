@@ -1,10 +1,10 @@
-### Hi there 👋
+<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ronniesong0809&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+</p>
+
+## Ronnie Song 🎩
 
 <!--
-**ronniesong0809/ronniesong0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+👋 Hello~ I'm Ronnie. Nice to see you here.
+
+📨 If you want a chat, you can send me an [email](mailto:ronniesong0809@gmail.com) directly.
