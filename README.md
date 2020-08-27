@@ -1,21 +1,8 @@
-<p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ronniesong0809&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-</p>
 
-## Ronnie Song 🎩
+### Coding is Like Magic but Real :tophat:
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-👋 Hello~ I'm Ronnie. Nice to see you here.
-
-📨 If you want a chat, you can send me an [email](mailto:ronniesong0809@gmail.com) directly.
+ - :wave: Hello~ I'm Ronnie. Nice to see you here.
+ - :coffee: Coffee Geek
+ - :meat_on_bone: Meat Lover
+ - :incoming_envelope: How to reach me: send me an [email](mailto:ronniesong0809@gmail.com) directly.
